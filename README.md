@@ -1,6 +1,6 @@
 # ✨CSGO服务器自动管理✨
 [![Language](https://img.shields.io/badge/language-python-green.svg?style=plastic)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=plastic)](https://github.com/ReadSmall/COVID-Bot/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL-3.0-orange.svg?style=plastic)](https://github.com/ReadSmall/COVID-Bot/blob/master/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)<br />
 **前言：**<br />
 **我花了大约12天来写这个很烂的项目**<br />
